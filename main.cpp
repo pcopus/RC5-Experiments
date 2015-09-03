@@ -2,7 +2,9 @@
 #include <iomanip>
 
 // W. Perry Copus, Jr.
-// 31 aug 2015
+// 31 Aug 2015
+//
+// Version 0.0.1 --> 3 Sept 2015
 //
 // Adapted from:
 //   RC5REF.C -- Reference implementation of RC5-32/12/16 in C.
